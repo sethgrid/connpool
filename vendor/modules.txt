@@ -1,0 +1,2 @@
+# github.com/fatih/pool v3.0.0+incompatible
+github.com/fatih/pool
